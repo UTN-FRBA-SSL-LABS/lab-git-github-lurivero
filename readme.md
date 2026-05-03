@@ -645,7 +645,7 @@ c) Si hay que revertir un cambio puntual es imposible sin deshacer todo lo del d
 d) Git rechaza commits que modifiquen demasiados archivos al mismo tiempo
 
 ```
-RESPUESTA_P5=
+RESPUESTA_P5=c
 ```
 
 ---
