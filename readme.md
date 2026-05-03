@@ -661,7 +661,7 @@ c) `git fetch` solo descarga la branch actual; `git pull` descarga todas las bra
 d) `git pull` siempre pide confirmación antes de modificar archivos locales; `git fetch` no
 
 ```
-RESPUESTA_P6=
+RESPUESTA_P6=b
 ```
 
 ---
